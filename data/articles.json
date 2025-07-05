@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "10 Important Tips for Effective and Efficient HTML and CSS Coding",
+    "date": "April 20, 2024",
+    "tags": ["HTML", "CSS"],
+    "readTime": "2 minute read",
+    "excerpt": "HTML and CSS are your first stops. Here are five do’s and five don’ts to keep in mind when coding and styling web projects...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "tips-html-css"
+  },
+  {
+    "id": 2,
+    "title": "Understanding the Core: The Crucial Role of HTML and CSS in Web Development",
+    "date": "April 20, 2024",
+    "tags": ["HTML", "CSS"],
+    "readTime": "2 minute read",
+    "excerpt": "When diving deep into web design, HTML and CSS are foundational. Learn their critical roles and how they impact performance and structure...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "html-css-core"
+  },
+  {
+    "id": 3,
+    "title": "The Box Model Demystified: How CSS Boxes Work",
+    "date": "April 21, 2024",
+    "tags": ["CSS", "Layout"],
+    "readTime": "3 minute read",
+    "excerpt": "If you don’t understand the box model, your layouts will never behave the way you want. Here’s a visual breakdown...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "css-box-model"
+  },
+  {
+    "id": 4,
+    "title": "Semantic HTML: Why it Matters and How to Use it Right",
+    "date": "April 21, 2024",
+    "tags": ["HTML", "Accessibility"],
+    "readTime": "4 minute read",
+    "excerpt": "Using <div> for everything is a rookie mistake. Semantic HTML improves accessibility, SEO, and developer sanity...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "semantic-html-guide"
+  },
+  {
+    "id": 5,
+    "title": "Mastering Flexbox: A Quick Guide for Web Layouts",
+    "date": "April 22, 2024",
+    "tags": ["CSS", "Flexbox"],
+    "readTime": "3 minute read",
+    "excerpt": "Flexbox is a game changer for layout. Here’s everything you need to create responsive and efficient UI components...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "flexbox-guide"
+  },
+  {
+    "id": 6,
+    "title": "Responsive Design: Mobile-First CSS Strategies",
+    "date": "April 22, 2024",
+    "tags": ["CSS", "Responsive"],
+    "readTime": "3 minute read",
+    "excerpt": "Your users are on mobile. Your designs should be too. Learn how to structure CSS for mobile-first development...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "mobile-first-css"
+  },
+  {
+    "id": 7,
+    "title": "Colors and Contrast: A Guide to Accessible Web Design",
+    "date": "April 23, 2024",
+    "tags": ["Design", "Accessibility"],
+    "readTime": "2 minute read",
+    "excerpt": "Contrast isn’t just aesthetic—it’s usability. Learn how to pick colors that everyone can read and enjoy...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "accessible-colors"
+  },
+  {
+    "id": 8,
+    "title": "Forms That Don’t Suck: UX Tips for Better Input Fields",
+    "date": "April 23, 2024",
+    "tags": ["HTML", "UX"],
+    "readTime": "3 minute read",
+    "excerpt": "Nobody likes filling out forms. But they’re necessary. Here’s how to make them less painful and more usable...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "form-ux-tips"
+  },
+  {
+    "id": 9,
+    "title": "Using CSS Grid for Advanced Layouts",
+    "date": "April 24, 2024",
+    "tags": ["CSS", "Grid"],
+    "readTime": "4 minute read",
+    "excerpt": "CSS Grid gives you total control over layout. Here’s a simple guide to break out of Flexbox limitations...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "css-grid-layouts"
+  },
+  {
+    "id": 10,
+    "title": "Common HTML and CSS Mistakes (and How to Fix Them)",
+    "date": "April 24, 2024",
+    "tags": ["HTML", "CSS"],
+    "readTime": "3 minute read",
+    "excerpt": "Everyone makes mistakes. These are the most common HTML and CSS pitfalls—and the fastest way to fix them...",
+    "content": "Full HTML content goes here (we’ll add that later)",
+    "slug": "html-css-mistakes"
+  }
+]
