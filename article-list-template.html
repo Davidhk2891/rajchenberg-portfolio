@@ -3,9 +3,22 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" contet="width=device-width, initial-scale=1.0" />
-        <title>articles</title>
+        <title>Articles</title>
         <link rel="stylesheet" href="styles.css" />
         <script src="article-list-loader.js" defer></script>
+        <script type="text/javascript">
+            !function (e, f, u, i) {
+              if (!document.getElementById(i)) {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+              }
+            }(document.createElement('script'),
+              document.getElementsByTagName('script')[0],
+              '//cdn.taboola.com/libtrc/bettertofppconfig/loader.js',
+              'tb_loader_script');
+          </script>
     </head>
     <body>
 
@@ -32,6 +45,19 @@
                 <h2 id="blog-page-content-title" class="section-title">Thoughts on web development</h2>
                 <div id="articles-container"></div>
             </div>
+        </section>
+
+        <section id="publishing-space-categories" class="publishing-space second">
+            <div id="taboola-section-front-widget"></div>
+            <script type="text/javascript">
+                window._taboola = window._taboola || [];
+                _taboola.push({
+                    mode: "thumbnails-a",
+                    container: "taboola-section-front-widget",
+                    placement: "thumbnails-test",
+                    target_type: "mix"
+                });
+            </script>
         </section>
 
         <footer id="footer">
@@ -125,6 +151,10 @@
                 <p class="footer-build-by">Built by Rajchenberg Studios</p>
             </div>
         </footer>
-
+        <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({category: true});
+            _taboola.push({flush:true});
+        </script>
     </body>
 </html>

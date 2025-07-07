@@ -750,6 +750,11 @@ section:not(#heading, #portfolio, #services, #blog) {
     margin-top: 5px;
 }
 
+/* PUBLISHING SPACE */
+.publishing-space {
+    padding: 0 30px 0 30px;
+}
+
 /* MEDIA QUERIES */
 @media (prefers-reduced-motion: no-preference) {
     * {
